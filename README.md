@@ -1,9 +1,9 @@
 <h1 align="center">Hi 👋, I'm Mark Solomon Philip</h1>
 <h3 align="center">A passionate Software developer from India</h3>
 
-- 🔭 I’m currently working on **Secuflux**
 
-- 🌱 I’m currently learning **React.js**
+
+- 🌱 I’m currently learning **Python**
 
 - 📫 How to reach me **marksphilip31@gmail.com**
 
