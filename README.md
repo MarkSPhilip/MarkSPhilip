@@ -7,7 +7,7 @@
 
 - 📫 How to reach me **marksphilip31@gmail.com**
 
-- 📄 Know about my experiences [https://drive.google.com/file/d/1swHwUCmEDgndLmfkJPy431GJv9e4mMnV/view?usp=sharing]
+- 📄 Know about my experiences 
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
