@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Mark Solomon Philip</h1>
-<h3 align="center">A passionate Software developer from India</h3>
+<h3 align="center"></h3>
 
 - 📫 How to reach me **marksphilip31@gmail.com**
 
