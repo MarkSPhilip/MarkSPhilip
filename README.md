@@ -3,6 +3,8 @@ I am a Data Science enthusiast with a passion for AI/ML, data analytics, and sof
 
 Let me know if you need any tweaks! 😊
 
+- 📫 How to reach me **marksphilip31@gmail.com**
+
 
 ## 🌐 Socials:
 <p align="left">
